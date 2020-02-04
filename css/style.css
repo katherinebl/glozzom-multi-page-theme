@@ -1,3 +1,4 @@
+/* NAVBAR */
 .navbar .nav-link {
   font-size: 14px;
   text-transform: uppercase;
@@ -5,4 +6,19 @@
 
 .navbar .nav-item.active {
   border-left: #444 3px solid;
+}
+
+/* CAROUSEL */
+.carousel-item {
+  height: 450px;
+}
+
+.carousel-image-1 {
+  background: url('../img/image1.jpg');
+}
+.carousel-image-2 {
+  background: url('../img/image2.jpg');
+}
+.carousel-image-3 {
+  background: url('../img/image3.jpg');
 }
