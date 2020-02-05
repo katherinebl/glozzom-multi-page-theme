@@ -8,6 +8,10 @@
   border-left: #444 3px solid;
 }
 
+.navbar .navbar-nav .nav-item {
+  padding: 0 0.7rem;
+}
+
 /* CAROUSEL */
 .carousel-item {
   height: 450px;
